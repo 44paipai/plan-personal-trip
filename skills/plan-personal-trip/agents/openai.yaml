@@ -1,0 +1,4 @@
+interface:
+  display_name: "plan-personal-trip"
+  short_description: "从目的地候选、体力节奏到预算 Excel 的个人化旅行策划"
+  default_prompt: "使用 $plan-personal-trip 根据我的偏好研究目的地、筛选路线，并生成带时间、内容和预算的行程。"
